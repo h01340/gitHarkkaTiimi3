@@ -1,7 +1,12 @@
 Kirjoitelkaa tähän tiedostoon juttuja...
 <<<<<<< HEAD
+<<<<<<< HEAD
 dsaadsdsadsdsa
+=======
+Kirjoitus_Zitting...
+>>>>>>> 245e0927ea9f832941abc66868e717600c87c9fe
 =======
 Huomenta!
 123212312432
+werweererwe
 >>>>>>> 49fea1f9067703bc1b7833ff9f675bde7a5a90fe
