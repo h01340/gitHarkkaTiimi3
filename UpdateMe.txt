@@ -1,4 +1,14 @@
+
+juttuja......
+
 Kirjoitelkaa tähän tiedostoon juttuja...
 Muutos 
 moro maailma
+<<<<<<< HEAD
 fuck you
+=======
+
+kaksoispiste deedee
+
+lisää juttuja
+>>>>>>> 82ce25cc0079d56f0796a12292c16731c56f6a9d
