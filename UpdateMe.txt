@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 juttuja......
+=======
+Kirjoitelkaa tähän tiedostoon juttuja...
+Muutos 
+moro maailma
+>>>>>>> ccb0de60bf6f0f4edde1c3ea1e135b9c9bd51b82
