@@ -4,4 +4,8 @@ juttuja......
 Kirjoitelkaa tähän tiedostoon juttuja...
 Muutos 
 moro maailma
+<<<<<<< HEAD
 >>>>>>> ccb0de60bf6f0f4edde1c3ea1e135b9c9bd51b82
+=======
+kaksoispiste deedee
+>>>>>>> f3d2c46499811057cfd691463ed253ae5cff3437
