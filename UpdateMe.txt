@@ -1,2 +1,9 @@
 Tätä tiedostoa voi päivitellä....
+<<<<<<< HEAD
 Jonna päivitti tiedostoa taas
+=======
+
+Testataan konfliktia päivitys 1
+Päivitys 2 Testi testi
+>>>>>>> 7edb9b2a48459ae474129f023a79444960c5c0be
+Jonna päivittää uudestaan
