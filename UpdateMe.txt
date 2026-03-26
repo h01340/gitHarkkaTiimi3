@@ -2,4 +2,10 @@ Kaksi tiimiläistä muokkaa yhtäaikaa tätä tiedostoa.
 
 Ohjelmistoprojekti 1 kurssi on nyt aloitettu. Kovasti tuntuu olevan kaikennäköistä kurssin sisältönä. Ehkä homma selkenee tulevina viikkoina :) 
 
+<<<<<<< HEAD
 testi12345 
+=======
+
+
+ssssssssssssssshhhhhh
+>>>>>>> 8e84500306e1a48bb0fbdc619a4009d1d9b11aa8
